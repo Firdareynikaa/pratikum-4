@@ -1,0 +1,9 @@
+# pratikum-4
+latihan 1
+![alt text](https://github.com/Firdareynikaa/pratikum-4/blob/master/w1.PNG?raw=true)
+latihan 2
+![alt text](https://github.com/Firdareynikaa/pratikum-4/blob/master/w2.PNG?raw=true)
+latihan 3
+![alt text](https://github.com/Firdareynikaa/pratikum-4/blob/master/w3.PNG?raw=true)
+latihan 4
+![alt text](https://github.com/Firdareynikaa/pratikum-4/blob/master/w4.PNG?raw=true)
